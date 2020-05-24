@@ -1,8 +1,8 @@
 ---
 name: Reading
 about: Prepare to read a resource
-title: ''
-labels: ''
+title: 'Reading'
+labels: 'backlog'
 assignees: codeanit
 
 ---
@@ -13,8 +13,8 @@ assignees: codeanit
 - [ ] Chapters Completion Checklist
 - [ ] Create course outline in README.md
 - [ ] Make issues for each chapter
-- [ ] Create [Repo](https://github.com/LearnWithAnit/opensource-networking-technologies)
-- [ ] Resource: https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS165x+1T2020/course
+- [ ] Create [Repo](https://github.com/LearnWithAnit/...)
+- [ ] Resource: ...
 
 
 # Chapters Completion Checklist
